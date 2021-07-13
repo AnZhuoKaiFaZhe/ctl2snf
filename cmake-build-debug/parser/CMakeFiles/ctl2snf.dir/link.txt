@@ -1,0 +1,1 @@
+/usr/bin/g++  -g   CMakeFiles/ctl2snf.dir/src/demo.cpp.o CMakeFiles/ctl2snf.dir/parser.cpp.o CMakeFiles/ctl2snf.dir/lexer.cpp.o CMakeFiles/ctl2snf.dir/src/types.cpp.o CMakeFiles/ctl2snf.dir/src/Simp.cpp.o CMakeFiles/ctl2snf.dir/src/Nnf.cpp.o CMakeFiles/ctl2snf.dir/src/transform.cpp.o  -o ../../ctl2snf 
